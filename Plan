@@ -1,0 +1,7 @@
+Sign in - with name + password
+Log in - if name existed + password is right - log in
+
+One can fill in scores to all of the tournament until the first game starts
+
+Scores + points will be updated automatically:
+I will set such that every hour we will take data from somewhere and will update score boards
